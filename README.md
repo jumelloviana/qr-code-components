@@ -1,3 +1,3 @@
 # Cartão QR Code 
-Desafio disponibilizado por Frontend Mentor.
+Desafio de projeto disponibilizado por Frontend Mentor.
 
